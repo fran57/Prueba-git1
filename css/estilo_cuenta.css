@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+body{
+    background:url(../imagenes/kamael.jpg) ;
+}
+header{
+    background-color: black;
+    margin-top: 6px;
+    color: darkred;
+    text-align: center;
+}
+form{
+    margin: 50px;
+    padding: 20px;
+    width: 20%;
+    background-color:black;
+}
+input{
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+}
+input:hover{
+    background-color: darkred;
+}
